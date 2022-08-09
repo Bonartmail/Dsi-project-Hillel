@@ -1,0 +1,67 @@
+.center-wrapper{
+    box-sizing: border-box;
+width: 1440px;
+height: 500px;
+left: 0px;
+top: 751px;
+
+background: #F7F7F7;
+
+}
+.center-content{
+
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.section-left__center{
+
+
+}
+.section-right__center{
+
+
+}
+.heading-text{
+    
+    width: 454px;
+    height: 86px;
+    left: 728px;
+    top: 57px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+        color: #EE4248;
+        margin-bottom: 24px;
+        
+    
+
+}
+.indonesia-text{
+    width: 520px;
+    height: 135px;
+    left: 728px;
+    top: 167px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #30444E;
+    margin-bottom: 24px;
+
+}
+.user-text{
+    width: 520px;
+    height: 108px;
+    left: 728px;
+    top: 326px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;   
+    color: #30444E;
+
+}
+.user-image {
+    margin-left: 200px;
+    margin-right: 100px;
+}

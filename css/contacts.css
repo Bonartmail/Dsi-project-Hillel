@@ -1,0 +1,70 @@
+.contacts-wrapper {
+margin-bottom: 25px;
+
+}
+.contacts {
+display: flex;
+align-items: flex-start;
+
+
+}
+.adress {
+margin-left: 158px;
+margin-right: 50px;
+
+}
+.logo-down {
+
+
+}
+.under-logo {
+    width: 259px;
+height: 21px;
+left: 1px;
+top: 94px;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #263238;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.adress-info {
+    width: 317px;
+    height: 54px;
+    left: 1px;
+    top: 123px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    color: #263238;    
+
+}
+.contacts-info__contact {
+    width: 85px;
+height: 28px;
+left: 365px;
+top: 51px;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #263238;
+margin-bottom: 40px;
+  
+}
+.telfaxmail {
+    width: 269px;
+height: 81px;
+left: 365px;
+top: 94px;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 149.19%;
+color: #263238;
+
+}

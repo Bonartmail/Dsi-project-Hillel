@@ -1,0 +1,23 @@
+@import url(theme.css);
+@import url(fonts.css);
+@import url(reset.css);
+@import url(navbar.css);
+@import url(content.css);
+@import url(header.css);
+@import url(products.css);
+@import url(contacts.css);
+@import url(footer.css);
+
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex-grow: 1;
+}
+.container {
+    max-width: 1125;
+    margin: 0 auto;
+    padding: 0 15px;
+}
